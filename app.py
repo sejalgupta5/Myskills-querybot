@@ -145,7 +145,7 @@ with st.sidebar:
 # Main interface
 st.title("🔍 'My Skills' Querybot")
 st.subheader("Ask a Question")
-st.write("Ask questions about 'My skills' data, and let the bot handle the SQL query generation and execution!")
+st.write("Ask questions about 'My Skills' data, and let the bot handle the SQL query generation and execution!")
 
 # User input
 user_input = st.text_input("Enter your question:", placeholder="E.g., How many distinct roles are there in the system?")
