@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-community
+huggingface_hub
+SQLAlchemy
+pandas
